@@ -14,7 +14,7 @@
             "minimum": 18,
             "maximum": 99
         },
-        "favorite_color": {
+        "favorite_colour": {
             "type": "string",
             "format": "color",
             "title": "favorite color",
